@@ -51,11 +51,11 @@
     "Multiplayer_Fields_of_Death_CE_90.html",
     "Multiplayer_Fields_of_Death_CE_91.html",
     "Multiplayer_Fields_of_Death_CE_92.html",
-    "Multiplayer_Fields_of_Death_CE_92_debrief.png",
+    "Multiplayer_Fields_of_Death_CE_92_facts.html",
     "Multiplayer_Fields_of_Death_CE_93.html",
-    "Multiplayer_Fields_of_Death_CE_93_debrief.png",
+    "Multiplayer_Fields_of_Death_CE_93_facts.html",
     "Multiplayer_Fields_of_Death_CE_94.html",
-    "Multiplayer_Fields_of_Death_CE_94_debrief.png",
+    "Multiplayer_Fields_of_Death_CE_94_facts.html",
     "Multiplayer_Fields_of_Death_CE_95.html",
     "Multiplayer_Fields_of_Death_CE_95_facts.html",
     "Multiplayer_Fields_of_Death_CE_96.html",
@@ -196,5 +196,5 @@
     "plotly.js-7b000ab84aa80b729773fa1279af06e20cfbf3cafe613399ede8b66067e756b9.js",
     "plotly.js-e2b0f77ee8156ff9d525852fe4acb7bfe7d85e8a2e1da0523f6d16209b848968.js"
   ],
-  "bytes": 244095610
+  "bytes": 251623983
 }
