@@ -17,9 +17,9 @@
     "Multiplayer_Emerald_City_CE_124.html",
     "Multiplayer_Emerald_City_CE_124_facts.html",
     "Multiplayer_Emerald_City_CE_125.html",
-    "Multiplayer_Emerald_City_CE_125_debrief.png",
+    "Multiplayer_Emerald_City_CE_125_facts.html",
     "Multiplayer_Emerald_City_CE_126.html",
-    "Multiplayer_Emerald_City_CE_126_debrief.png",
+    "Multiplayer_Emerald_City_CE_126_facts.html",
     "Multiplayer_Emerald_City_CE_127.html",
     "Multiplayer_Emerald_City_CE_127_facts.html",
     "Multiplayer_Emerald_City_CE_128.html",
@@ -194,5 +194,5 @@
     "plotly.js-7b000ab84aa80b729773fa1279af06e20cfbf3cafe613399ede8b66067e756b9.js",
     "plotly.js-e2b0f77ee8156ff9d525852fe4acb7bfe7d85e8a2e1da0523f6d16209b848968.js"
   ],
-  "bytes": 235632517
+  "bytes": 240633140
 }
