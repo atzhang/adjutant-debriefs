@@ -24,11 +24,13 @@
     "Multiplayer_Emerald_City_CE_128.html",
     "Multiplayer_Emerald_City_CE_128_facts.html",
     "Multiplayer_Emerald_City_CE_129.html",
-    "Multiplayer_Emerald_City_CE_129_debrief.png",
+    "Multiplayer_Emerald_City_CE_129_facts.html",
     "Multiplayer_Emerald_City_CE_130.html",
-    "Multiplayer_Emerald_City_CE_130_debrief.png",
+    "Multiplayer_Emerald_City_CE_130_facts.html",
+    "Multiplayer_Emerald_City_CE_130_ledger.html",
     "Multiplayer_Emerald_City_CE_131.html",
-    "Multiplayer_Emerald_City_CE_131_debrief.png",
+    "Multiplayer_Emerald_City_CE_131_facts.html",
+    "Multiplayer_Emerald_City_CE_131_ledger.html",
     "Multiplayer_Emerald_City_CE_132.html",
     "Multiplayer_Emerald_City_CE_132_facts.html",
     "Multiplayer_Emerald_City_CE_132_ledger.html",
@@ -54,11 +56,11 @@
     "Multiplayer_Fields_of_Death_CE_94.html",
     "Multiplayer_Fields_of_Death_CE_94_debrief.png",
     "Multiplayer_Fields_of_Death_CE_95.html",
-    "Multiplayer_Fields_of_Death_CE_95_debrief.png",
+    "Multiplayer_Fields_of_Death_CE_95_facts.html",
     "Multiplayer_Fields_of_Death_CE_96.html",
-    "Multiplayer_Fields_of_Death_CE_96_debrief.png",
+    "Multiplayer_Fields_of_Death_CE_96_facts.html",
     "Multiplayer_Fields_of_Death_CE_97.html",
-    "Multiplayer_Fields_of_Death_CE_97_debrief.png",
+    "Multiplayer_Fields_of_Death_CE_97_facts.html",
     "Multiplayer_Reclamation_LE_255.html",
     "Multiplayer_Reclamation_LE_256.html",
     "Multiplayer_Reclamation_LE_257.html",
@@ -193,5 +195,5 @@
     "plotly.js-7b000ab84aa80b729773fa1279af06e20cfbf3cafe613399ede8b66067e756b9.js",
     "plotly.js-e2b0f77ee8156ff9d525852fe4acb7bfe7d85e8a2e1da0523f6d16209b848968.js"
   ],
-  "bytes": 189198831
+  "bytes": 204161993
 }
