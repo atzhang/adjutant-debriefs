@@ -69,9 +69,9 @@
     "Multiplayer_Reclamation_LE_260.html",
     "Multiplayer_Reclamation_LE_260_debrief.png",
     "Multiplayer_Reclamation_LE_261.html",
-    "Multiplayer_Reclamation_LE_261_debrief.png",
+    "Multiplayer_Reclamation_LE_261_facts.html",
     "Multiplayer_Reclamation_LE_262.html",
-    "Multiplayer_Reclamation_LE_262_debrief.png",
+    "Multiplayer_Reclamation_LE_262_facts.html",
     "Multiplayer_Reclamation_LE_263.html",
     "Multiplayer_Reclamation_LE_263_facts.html",
     "Multiplayer_Reclamation_LE_263_ledger.html",
@@ -195,5 +195,5 @@
     "plotly.js-7b000ab84aa80b729773fa1279af06e20cfbf3cafe613399ede8b66067e756b9.js",
     "plotly.js-e2b0f77ee8156ff9d525852fe4acb7bfe7d85e8a2e1da0523f6d16209b848968.js"
   ],
-  "bytes": 204161993
+  "bytes": 209390865
 }
