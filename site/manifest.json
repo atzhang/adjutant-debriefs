@@ -2,7 +2,6 @@
   "games": 100,
   "files": [
     ".nojekyll",
-    "Multiplayer_Emerald_City_CE_114.html",
     "Multiplayer_Emerald_City_CE_115.html",
     "Multiplayer_Emerald_City_CE_116.html",
     "Multiplayer_Emerald_City_CE_117.html",
@@ -69,7 +68,11 @@
     "Multiplayer_Reclamation_LE_263.html",
     "Multiplayer_Reclamation_LE_263_debrief.png",
     "Multiplayer_Reclamation_LE_264.html",
-    "Multiplayer_Reclamation_LE_264_debrief.png",
+    "Multiplayer_Reclamation_LE_264_facts.html",
+    "Multiplayer_Reclamation_LE_264_ledger.html",
+    "Multiplayer_Reclamation_LE_265.html",
+    "Multiplayer_Reclamation_LE_265_facts.html",
+    "Multiplayer_Reclamation_LE_265_ledger.html",
     "Multiplayer_Rhoskallian_LE_205.html",
     "Multiplayer_Rhoskallian_LE_206.html",
     "Multiplayer_Rhoskallian_LE_207.html",
@@ -101,9 +104,11 @@
     "Multiplayer_Rhoskallian_LE_220.html",
     "Multiplayer_Rhoskallian_LE_220_debrief.png",
     "Multiplayer_Rhoskallian_LE_221.html",
-    "Multiplayer_Rhoskallian_LE_221_debrief.png",
+    "Multiplayer_Rhoskallian_LE_221_facts.html",
+    "Multiplayer_Rhoskallian_LE_221_ledger.html",
     "Multiplayer_Rhoskallian_LE_222.html",
-    "Multiplayer_Rhoskallian_LE_222_debrief.png",
+    "Multiplayer_Rhoskallian_LE_222_facts.html",
+    "Multiplayer_Rhoskallian_LE_222_ledger.html",
     "Multiplayer_Rust_Bucket_LE_121.html",
     "Multiplayer_Rust_Bucket_LE_122.html",
     "Multiplayer_Rust_Bucket_LE_123.html",
@@ -132,7 +137,8 @@
     "Multiplayer_Rust_Bucket_LE_137.html",
     "Multiplayer_Rust_Bucket_LE_137_debrief.png",
     "Multiplayer_Rust_Bucket_LE_138.html",
-    "Multiplayer_Rust_Bucket_LE_138_debrief.png",
+    "Multiplayer_Rust_Bucket_LE_138_facts.html",
+    "Multiplayer_Rust_Bucket_LE_138_ledger.html",
     "Multiplayer_Undercurrent_LE_257.html",
     "Multiplayer_Undercurrent_LE_258.html",
     "Multiplayer_Undercurrent_LE_259.html",
@@ -172,5 +178,5 @@
     "plotly.js-7b000ab84aa80b729773fa1279af06e20cfbf3cafe613399ede8b66067e756b9.js",
     "plotly.js-e2b0f77ee8156ff9d525852fe4acb7bfe7d85e8a2e1da0523f6d16209b848968.js"
   ],
-  "bytes": 126485020
+  "bytes": 122894459
 }
