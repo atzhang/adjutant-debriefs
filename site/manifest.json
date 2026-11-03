@@ -66,7 +66,8 @@
     "Multiplayer_Emerald_City_CE_138_facts.html",
     "Multiplayer_Emerald_City_CE_138_ledger.html",
     "Multiplayer_Emerald_City_CE_139.html",
-    "Multiplayer_Emerald_City_CE_139_debrief.png",
+    "Multiplayer_Emerald_City_CE_139_facts.html",
+    "Multiplayer_Emerald_City_CE_139_ledger.html",
     "Multiplayer_Fields_of_Death_CE_91.html",
     "Multiplayer_Fields_of_Death_CE_91_facts.html",
     "Multiplayer_Fields_of_Death_CE_91_ledger.html",
@@ -304,5 +305,5 @@
     "index.html",
     "plotly.js-e2b0f77ee8156ff9d525852fe4acb7bfe7d85e8a2e1da0523f6d16209b848968.js"
   ],
-  "bytes": 428582323
+  "bytes": 433883003
 }
