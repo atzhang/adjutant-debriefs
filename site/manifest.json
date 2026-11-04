@@ -90,7 +90,8 @@
     "Multiplayer_Fields_of_Death_CE_98_facts.html",
     "Multiplayer_Fields_of_Death_CE_98_ledger.html",
     "Multiplayer_Fields_of_Death_CE_99.html",
-    "Multiplayer_Fields_of_Death_CE_99_debrief.png",
+    "Multiplayer_Fields_of_Death_CE_99_facts.html",
+    "Multiplayer_Fields_of_Death_CE_99_ledger.html",
     "Multiplayer_Reclamation_LE_256.html",
     "Multiplayer_Reclamation_LE_256_facts.html",
     "Multiplayer_Reclamation_LE_256_ledger.html",
@@ -304,5 +305,5 @@
     "index.html",
     "plotly.js-e2b0f77ee8156ff9d525852fe4acb7bfe7d85e8a2e1da0523f6d16209b848968.js"
   ],
-  "bytes": 430316198
+  "bytes": 434739954
 }
