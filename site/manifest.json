@@ -63,7 +63,8 @@
     "Multiplayer_Emerald_City_CE_137_facts.html",
     "Multiplayer_Emerald_City_CE_137_ledger.html",
     "Multiplayer_Emerald_City_CE_138.html",
-    "Multiplayer_Emerald_City_CE_138_debrief.png",
+    "Multiplayer_Emerald_City_CE_138_facts.html",
+    "Multiplayer_Emerald_City_CE_138_ledger.html",
     "Multiplayer_Emerald_City_CE_139.html",
     "Multiplayer_Emerald_City_CE_139_facts.html",
     "Multiplayer_Emerald_City_CE_139_ledger.html",
@@ -171,7 +172,8 @@
     "Multiplayer_Rhoskallian_LE_222_facts.html",
     "Multiplayer_Rhoskallian_LE_222_ledger.html",
     "Multiplayer_Rhoskallian_LE_223.html",
-    "Multiplayer_Rhoskallian_LE_223_debrief.png",
+    "Multiplayer_Rhoskallian_LE_223_facts.html",
+    "Multiplayer_Rhoskallian_LE_223_ledger.html",
     "Multiplayer_Rhoskallian_LE_224.html",
     "Multiplayer_Rhoskallian_LE_224_facts.html",
     "Multiplayer_Rhoskallian_LE_224_ledger.html",
@@ -298,5 +300,5 @@
     "index.html",
     "plotly.js-e2b0f77ee8156ff9d525852fe4acb7bfe7d85e8a2e1da0523f6d16209b848968.js"
   ],
-  "bytes": 396506439
+  "bytes": 406751965
 }
