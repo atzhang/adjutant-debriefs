@@ -117,9 +117,11 @@
     "Multiplayer_Reclamation_LE_263_facts.html",
     "Multiplayer_Reclamation_LE_263_ledger.html",
     "Multiplayer_Reclamation_LE_264.html",
-    "Multiplayer_Reclamation_LE_264_debrief.png",
+    "Multiplayer_Reclamation_LE_264_facts.html",
+    "Multiplayer_Reclamation_LE_264_ledger.html",
     "Multiplayer_Reclamation_LE_265.html",
-    "Multiplayer_Reclamation_LE_265_debrief.png",
+    "Multiplayer_Reclamation_LE_265_facts.html",
+    "Multiplayer_Reclamation_LE_265_ledger.html",
     "Multiplayer_Reclamation_LE_266.html",
     "Multiplayer_Reclamation_LE_266_facts.html",
     "Multiplayer_Reclamation_LE_266_ledger.html",
@@ -231,7 +233,8 @@
     "Multiplayer_Rust_Bucket_LE_138_facts.html",
     "Multiplayer_Rust_Bucket_LE_138_ledger.html",
     "Multiplayer_Rust_Bucket_LE_139.html",
-    "Multiplayer_Rust_Bucket_LE_139_debrief.png",
+    "Multiplayer_Rust_Bucket_LE_139_facts.html",
+    "Multiplayer_Rust_Bucket_LE_139_ledger.html",
     "Multiplayer_Rust_Bucket_LE_140.html",
     "Multiplayer_Rust_Bucket_LE_140_facts.html",
     "Multiplayer_Rust_Bucket_LE_140_ledger.html",
@@ -301,5 +304,5 @@
     "index.html",
     "plotly.js-e2b0f77ee8156ff9d525852fe4acb7bfe7d85e8a2e1da0523f6d16209b848968.js"
   ],
-  "bytes": 414018873
+  "bytes": 429541243
 }
